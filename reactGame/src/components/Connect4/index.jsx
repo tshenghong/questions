@@ -164,9 +164,9 @@ class Connect4 extends React.Component {
                               className={styles.box}
                               onClick={() => this.handleClick(rowIdx, boxIdx)}
                             >
-                                <div className={`${styles.font} ${box === 1 ? styles.font0 : styles.font1}`}>
+                                <span className={`${styles.font} ${box === 1 ? styles.font0 : styles.font1}`}>
                                     {box ? '◯' : null}
-                                </div>
+                                </span>
                             </div>
                         )}
                     </div>

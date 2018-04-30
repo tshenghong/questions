@@ -1,0 +1,15 @@
+.box {
+	display: flex;
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+}
+
+.font {
+    font-size: 30px;
+    margin: auto;
+}
+
+.row {
+	display: flex;
+}
