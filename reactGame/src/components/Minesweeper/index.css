@@ -1,0 +1,14 @@
+.box {
+	display: flex;
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+}
+
+.row {
+	display: flex;
+}
+
+.red {
+	color: red;
+}
