@@ -1,4 +1,5 @@
 # Databricks notebook source
-c+3 = 33
+a + 1 = 2
+a + 2 = 3
 1 + 1 = 2
 
